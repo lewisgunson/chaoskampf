@@ -1,0 +1,4 @@
+tesseractShadowAxes.jpg filter=lfs diff=lfs merge=lfs -text
+tesseract.jpg filter=lfs diff=lfs merge=lfs -text
+tesseractShadow.jpg filter=lfs diff=lfs merge=lfs -text
+tesseractShadowGlass.png filter=lfs diff=lfs merge=lfs -text
